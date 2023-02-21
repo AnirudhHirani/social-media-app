@@ -18,7 +18,7 @@ const EditPage = () => {
       <Navbar />
       <Box
         width="100%"
-        height="100%"
+        height="90vh"
         display="flex"
         flexDir="row"
         justifyContent="space-around"

@@ -177,6 +177,7 @@ const ChatContainer = () => {
             justifyContent="center"
             alignItems="center"
             transition="250ms"
+            height="100%"
           >
             <Profile showUser={displayedUser} />
           </Box>
